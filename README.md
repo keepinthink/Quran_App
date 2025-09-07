@@ -55,7 +55,3 @@ Anda memerlukan web server lokal atau remote yang mendukung PHP (misalnya, Apach
 
 3.  **Jalankan Aplikasi**
     Nyalakan web server Anda dan buka URL proyek di browser (misalnya, `http://localhost/nama-folder-proyek/`).
-
-## 📁 Struktur File
-
-Proyek ini diorganisir dengan struktur yang jelas dan logis:
